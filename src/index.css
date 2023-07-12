@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gochi+Hand&family=Kaushan+Script&family=Poppins&family=Roboto&family=Ubuntu:wght@400;500&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Poppins, sans-sarif;
+}
+
+body {
+  margin: 0;
+  background-color: #14c0a9;
+}
